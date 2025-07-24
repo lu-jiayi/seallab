@@ -1,9 +1,11 @@
 ---
 ---
 
-# lu-jiayi's Website
+# Welcome to the SEAL Lab!
 
-An engaging 1-3 sentence description of your lab.
+At the SEAL lab (the Syntax and ExperimentAl Linguistics Lab), we examine how syntactic information is represented, acquired, and processed by human speakers, using a combination of formal analysis, and experimental, computational, and corpus-based methods. 
+
+We are the youngest research group at Northwestern Linguistics! If you are interested in syntax, psycholinguistics, or any adjacent field of study, we are excited to have you onboard!
 
 {% include section.html %}
 
