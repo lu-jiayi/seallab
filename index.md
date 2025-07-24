@@ -1,7 +1,7 @@
 ---
 ---
 
-# The <span style="color:blue">S</span>ntax and <span style="color:blue">E/span>xperiment<span style="color:blue">a</span>l <span style="color:blue">L</span>inguistics Lab
+# The <span style="color:blue">S</span>ntax and <span style="color:blue">E</span>xperiment<span style="color:blue">a</span>l <span style="color:blue">L</span>inguistics Lab
 
 Welcome to the SEAL Lab! We examine how syntactic information is represented, acquired, and processed by human speakers, using a combination of formal analysis, and experimental, computational, and corpus-based methods. 
 
