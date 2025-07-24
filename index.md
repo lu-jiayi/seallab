@@ -1,9 +1,9 @@
 ---
 ---
 
-# Welcome to the SEAL Lab!
+# The <span style="color:blue">S</span>ntax and <span style="color:blue">E/span>xperiment<span style="color:blue">a</span>l <span style="color:blue">L</span>inguistics Lab
 
-At the SEAL lab (the Syntax and ExperimentAl Linguistics Lab), we examine how syntactic information is represented, acquired, and processed by human speakers, using a combination of formal analysis, and experimental, computational, and corpus-based methods. 
+Welcome to the SEAL Lab! We examine how syntactic information is represented, acquired, and processed by human speakers, using a combination of formal analysis, and experimental, computational, and corpus-based methods. 
 
 We are the youngest research group at Northwestern Linguistics! If you are interested in syntax, psycholinguistics, or any adjacent field of study, we are excited to have you onboard!
 
