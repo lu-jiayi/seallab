@@ -119,3 +119,13 @@
   image: https://github.com/lu-jiayi/homepage/blob/master/adapt_png.png
   plugin: sources.py
   file: sources.yaml
+- title: Satiation effects generalize across island types
+  authors:
+  - Jiayi Lu
+  - Nicholas Wright
+  - Judith Degen
+  publisher: Proceedings of the Annual Meeting of the Cognitive Science Society
+  date: '2022-06-01'
+  link: https://escholarship.org/uc/item/90j270js
+  plugin: sources.py
+  file: sources.yaml
