@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: The SEAL Lab
-subtitle: 
+logo-text: true
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,12 +8,10 @@ proofer: true
 
 # site social media and other links
 links:
-  email: contact@lu-jiayi.com
+  email: jlg363@alumni.stanford.edu
   orcid: 0000-0002-3314-5666
-  google-scholar: ETJoidYAAAAJ
   github: lu-jiayi
-  twitter: lu-jiayi
-  youtube: lu-jiayi
+
 
 ### jekyll settings
 
