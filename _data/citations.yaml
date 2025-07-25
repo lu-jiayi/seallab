@@ -93,3 +93,14 @@
   orcid: 0000-0002-3314-5666
   plugin: orcid.py
   file: orcid.yaml
+- title: Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?
+  authors:
+  - Jiayi Lu
+  - Jonathan Merchan
+  - Lian Wang
+  - Judith Degen
+  publisher: Proceedings of the Society for Computation in Linguistics
+  date: '1970-01-01'
+  link: https://aclanthology.org/2024.scil-1.2/
+  plugin: sources.py
+  file: sources.yaml
