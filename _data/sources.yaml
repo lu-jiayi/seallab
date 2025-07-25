@@ -11,3 +11,12 @@
   date: 2024-01-01
   link: https://aclanthology.org/2024.scil-1.2/
   image: https://github.com/lu-jiayi/homepage/blob/master/scil-png.png
+
+- id: doi:10.5070/G60111425
+  image: https://escholarship.org/content/qt33t7f9s4/glossapx-3-1-1425-g4.png
+
+- id: doi:10.3389/fpsyg.2022.907823/full
+  image: https://www.frontiersin.org/files/Articles/907823/fpsyg-13-907823-HTML-r1/image_m/fpsyg-13-907823-g003.jpg
+
+- id: doi:10.1111/cogs.13383
+  image: https://onlinelibrary.wiley.com/cms/asset/24f535da-a4ee-442a-b52a-696296d17321/cogs13383-fig-0001-m.jpg
