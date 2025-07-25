@@ -15,6 +15,4 @@ nav:
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 
-{% endcapture %}
-
 {% include grid.html style="square" content=content %}
