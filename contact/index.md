@@ -7,27 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Email Jiayi"
+  link="jlg363@alumni.stanford.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="The location of Northwestern Department of Linguistics on Google Maps"
+  link="https://www.google.com/maps/place/2016+Sheridan+Rd,+2016+Sheridan+Rd,+Evanston,+IL+60208/@42.0541328,-87.6776211,17.75z/data=!4m6!3m5!1s0x880fd075548138e1:0x6d1360409fb1196c!8m2!3d42.0544676!4d-87.6776634!16s%2Fg%2F1thx96l5?entry=ttu&g_ep=EgoyMDI1MDcyMi4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
