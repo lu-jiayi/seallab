@@ -12,10 +12,20 @@
   link: https://aclanthology.org/2024.scil-1.2/
   image: https://github.com/lu-jiayi/homepage/blob/master/scil-png.png
 
+- title: Syntactic satiation is driven by speaker-specific adaptation
+  authors:
+    - Jiayi Lu
+    - Daniel Lassiter
+    - Judith Degen
+  publisher: Proceedings of the Annual Meeting of the Cognitive Science Society
+  date: 2021-06-01
+  link: https://escholarship.org/uc/item/1dn4v3b4
+  image: https://github.com/lu-jiayi/homepage/blob/master/adapt_png.png
+
 - id: doi:10.5070/G60111425
   image: https://escholarship.org/content/qt33t7f9s4/glossapx-3-1-1425-g4.png
 
-- id: doi:10.3389/fpsyg.2022.907823/full
+- id: doi:10.3389/fpsyg.2022.907823
   image: https://www.frontiersin.org/files/Articles/907823/fpsyg-13-907823-HTML-r1/image_m/fpsyg-13-907823-g003.jpg
 
 - id: doi:10.1111/cogs.13383
