@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Syntax and Experimental Linguistics (SEAL) Lab
-subtitle: Northwestern University Department of Linguistics
+title: The SEAL Lab
+subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -9,7 +9,7 @@ proofer: true
 # site social media and other links
 links:
   email: contact@lu-jiayi.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-3314-5666
   google-scholar: ETJoidYAAAAJ
   github: lu-jiayi
   twitter: lu-jiayi
