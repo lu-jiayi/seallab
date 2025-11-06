@@ -96,16 +96,7 @@
   orcid: 0000-0002-3314-5666
   plugin: orcid.py
   file: orcid.yaml
-- title: Evidence for a Discourse Account of Manner-of-Speaking Islands
-  authors:
-  - Jiayi Lu
-  - Dingyi Pan
-  - Judith Degen
-  publisher: Language
-  date: '2025-12-01'
-  link: https://ling.auf.net/lingbuzz/008431
-  plugin: sources.py
-  file: sources.yaml
+
 - title: Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?
   authors:
   - Jiayi Lu
