@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 4
   tooltip: Email, address, and location
 ---
 
@@ -13,7 +13,7 @@ If you are a current Northwestern student and wish to join the SEAL lab, please 
   include button.html
   type="email"
   text="Email Jiayi"
-  link="jlg363@alumni.stanford.edu"
+  link="jiayi.lu@northwestern.du"
 %}
 
 {%
