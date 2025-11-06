@@ -139,15 +139,3 @@
   link: https://escholarship.org/uc/item/90j270js
   plugin: sources.py
   file: sources.yaml
-
-- title: Evidence for a Discourse Account of Manner-of-Speaking Islands
-  authors:
-    - Jiayi Lu
-    - Dingyi Pan
-    - Judith Degen
-  publisher: Language
-  date: '2025-12-01'
-  link: https://ling.auf.net/lingbuzz/008431
-  plugin: sources.py
-  file: sources.yaml
-
