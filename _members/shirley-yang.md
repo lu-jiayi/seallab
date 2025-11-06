@@ -1,5 +1,5 @@
 ---
 name: Shirley Yang
 image: images/photo.jpg
-role: Undergraduate student
+role: undergraduate-student
 ---
