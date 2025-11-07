@@ -19,7 +19,7 @@
   publisher: Proceedings of the Society for Computation in Linguistics
   date: 2024-06-01
   link: https://aclanthology.org/2024.scil-1.2/
-  image: https://github.com/lu-jiayi/homepage/blob/master/scil-png.png
+  image: "images/scil-png.png"
 
 - title: Syntactic satiation is driven by speaker-specific adaptation
   authors:
@@ -39,6 +39,7 @@
   publisher: Proceedings of the Annual Meeting of the Cognitive Science Society
   date: 2022-06-01
   link: https://escholarship.org/uc/item/90j270js
+  image: "images/cogsci_lwd.png"
 
 - id: doi:10.5070/G60111425
   image: https://escholarship.org/content/qt33t7f9s4/glossapx-3-1-1425-g4.png
