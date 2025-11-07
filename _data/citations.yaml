@@ -1,12 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
-- title: Evidence for a Discourse Account of Manner-of-Speaking Islands
-  authors:
-    - Jiayi Lu
-    - Dingyi Pan
-    - Judith Degen
-  publisher: Language
-  date: 2025-12-01
-  link: https://ling.auf.net/lingbuzz/008431
+
 - id: doi:10.5070/G60111425
   title: A Meta-analysis of Syntactic Satiation in Extraction from Islands
   authors:
@@ -122,7 +115,7 @@
   publisher: Proceedings of the Society for Computation in Linguistics
   date: '2024-06-01'
   link: https://aclanthology.org/2024.scil-1.2/
-  image: https://github.com/lu-jiayi/homepage/blob/master/scil-png.png
+  image: images/scil-png.png
   plugin: sources.py
   file: sources.yaml
 - title: Syntactic satiation is driven by speaker-specific adaptation
@@ -144,5 +137,6 @@
   publisher: Proceedings of the Annual Meeting of the Cognitive Science Society
   date: '2022-06-01'
   link: https://escholarship.org/uc/item/90j270js
+  image: images/cogsci_lwd.png
   plugin: sources.py
   file: sources.yaml
