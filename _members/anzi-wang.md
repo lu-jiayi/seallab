@@ -1,6 +1,6 @@
 ---
 name: Anzi Wang
-image: images/anzi.jpg
+image: images/anzi.jpeg
 role: phd
 ---
 
