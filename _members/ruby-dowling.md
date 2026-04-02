@@ -1,6 +1,6 @@
 ---
 name: Ruby Dowling
-image: images/ruby.jpg
+image: images/ruby.jpeg
 role: undergrad
 ---
 
