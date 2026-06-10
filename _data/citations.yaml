@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1353/lan.2025.a978271
-  title: Evidence for a discourse account of manner-of-speaking islands
+  title: Evidence For a Discourse Account of Manner-of-Speaking Islands
   authors:
   - Jiayi Lu
   - Dingyi Pan
@@ -87,8 +87,10 @@
   image: https://www.frontiersin.org/files/Articles/1059823/fpsyg-13-1059823-HTML-r3/image_m/fpsyg-13-1059823-g001.jpg
 - id: doi:10.18855/LISOKO.2021.46.3.006
   title: An Illusion of Grammaticality in Wh-Questions
-  authors: []
-  publisher: "\uC5B8\uC5B4"
+  authors:
+  - " KIM\uFF0C NAYOUN"
+  - ' Jiayi Lu'
+  publisher: Korean Journal of Linguistics
   date: '2021-09-01'
   link: https://doi.org/g9t7nd
   orcid: 0000-0002-3314-5666
