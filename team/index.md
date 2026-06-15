@@ -17,3 +17,14 @@ nav:
 ## Alumni
 
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+
+## Collaborators
+
+[Nayoun Kim](https://sites.google.com/view/skku-lcl/?authuser=1)  
+[Julie Anne Legate](https://www.ling.upenn.edu/~jlegate/)
+[Eszter Ronai](https://ronai.linguistics.northwestern.edu/)  
+[Jon Sprouse](https://www.jonsprouse.com/)  
+[Sandra Villata](https://sandravillata.com/)  
+[Charles Yang](https://www.ling.upenn.edu/~ycharles/)  
+
+
