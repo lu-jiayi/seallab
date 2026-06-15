@@ -8,7 +8,7 @@ nav:
 
 {% include section.html %}
 
-## Principal Investigator
+## Current members
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
