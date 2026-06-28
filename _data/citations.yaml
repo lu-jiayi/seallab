@@ -1,15 +1,4 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
-<<<<<<< HEAD
-- title: The learnability of bridge effects
-  authors:
-    - Jiayi Lu
-    - Julie Anne Legate
-    - Charles Yang
-  publisher: Journal of Linguistics
-  date: 2026-06-22
-  link: https://www.cambridge.org/core/journals/journal-of-linguistics/article/learnability-of-bridge-effects/CC684E04D1479FB8CCC1F08924F5FAEC
-  image: "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260619162443362-0658:S0022226726101297:S0022226726101297_fig5.png"
-=======
 
 - id: doi:10.1017/S0022226726101297
   title: The learnability of bridge effects
@@ -23,7 +12,6 @@
   orcid: 0000-0002-3314-5666
   plugin: sources.py
   file: sources.yaml
->>>>>>> 10d3781e6a75e9668b72eb6d3438a0f3668c6c5a
 - id: doi:10.16995/glossa.27264
   title: Adjunct Island Effect on Wh-scrambling in Korean
   authors:
