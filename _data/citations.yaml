@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1017/S0022226726101297
-  title: The learnability of bridge effects
+  title: The learnability of bridge edeffects
   authors:
   - Jiayi Lu
   - Julie Anne Legate
@@ -12,10 +12,7 @@
   orcid: 0000-0002-3314-5666
   plugin: sources.py
   file: sources.yaml
-<<<<<<< HEAD
-=======
   image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260619162443362-0658:S0022226726101297:S0022226726101297_fig5.png
->>>>>>> 583d235173f200204a72e433e2ba775e135dd96a
 - id: doi:10.16995/glossa.27264
   title: Title Pending
   authors:
