@@ -1,7 +1,18 @@
 - id: doi:10.3389/fpsyg.2022.1059823
   image: https://www.frontiersin.org/files/Articles/1059823/fpsyg-13-1059823-HTML-r3/image_m/fpsyg-13-1059823-g001.jpg
-- id: doi:10.1017/S0022226726101297
   
+
+- id: doi:10.1017/S0022226726101297
+  title: The learnability of bridge effects
+  authors:
+    - Jiayi Lu
+    - Julie Anne Legate
+    - Charles Yang
+  publisher: Journal of Linguistics
+  date: 2026-06-22
+  link: https://www.cambridge.org/core/journals/journal-of-linguistics/article/learnability-of-bridge-effects/CC684E04D1479FB8CCC1F08924F5FAEC
+  image: "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260619162443362-0658:S0022226726101297:S0022226726101297_fig5.png"
+
 - title: Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?
   authors:
     - Jiayi Lu
