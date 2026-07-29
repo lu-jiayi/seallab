@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1017/S0022226726101297
-  title: The learnability of bridge edeffects
+  title: The learnability of bridge effects
   authors:
   - Jiayi Lu
   - Julie Anne Legate
@@ -12,9 +12,8 @@
   orcid: 0000-0002-3314-5666
   plugin: sources.py
   file: sources.yaml
-  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260619162443362-0658:S0022226726101297:S0022226726101297_fig5.png
 - id: doi:10.16995/glossa.27264
-  title: Title Pending
+  title: Adjunct Island Effect on Wh-Scrambling in Korean
   authors:
   - Jiayi Lu
   - Nayoun Kim
