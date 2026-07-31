@@ -1,6 +1,14 @@
 - id: doi:10.3389/fpsyg.2022.1059823
   image: https://www.frontiersin.org/files/Articles/1059823/fpsyg-13-1059823-HTML-r3/image_m/fpsyg-13-1059823-g001.jpg
   
+- id: doi:10.16995/glossa.27264
+  title: Adjunct Island Effect on Wh-Scrambling in Korean
+  authors:
+  - Jiayi Lu
+  - Nayoun Kim
+  publisher: 'Glossa: a journal of general linguistics'
+  date: 2026-01-01
+  link: https://doi.org/hb7vkn
 
 - id: doi:10.1017/S0022226726101297
   title: The learnability of bridge effects
