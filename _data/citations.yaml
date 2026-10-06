@@ -23,6 +23,17 @@
   orcid: 0000-0002-3314-5666
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.16995/glossa.29677
+  title: Title Pending
+  authors:
+  - Xiaohan Yang
+  - Jiayi Lu
+  publisher: 'Glossa: a journal of general linguistics'
+  date: '2026-01-01'
+  link: https://doi.org/hcmp7z
+  orcid: 0000-0002-3314-5666
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1353/lan.2025.a978271
   title: Evidence For a Discourse Account of Manner-of-Speaking Islands
   authors:
@@ -131,6 +142,14 @@
   orcid: 0000-0002-3314-5666
   plugin: orcid.py
   file: orcid.yaml
+- title: Islands Satiate without Change in Backgroundedness
+  authors:
+  - Xiaohan Yang
+  - Jiayi Lu
+  publisher: 'Glossa: a journal of general linguistics'
+  date: '2026-10-06'
+  plugin: sources.py
+  file: sources.yaml
 - title: Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?
   authors:
   - Jiayi Lu
