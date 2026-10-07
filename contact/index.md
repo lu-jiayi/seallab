@@ -9,7 +9,7 @@ nav:
 
 If you are a prospective graduate student, please submit an application through the [Department of Linguistics Graduate Admissions website](https://linguistics.northwestern.edu/graduate/application/) directly.
 
-If you are a current undergraduate student at Northwestern and are looking for research opportunities at the SEAL lab, please email Jiayi directly. 
+If you are a current undergraduate student at Northwestern and are looking for research opportunities at the SEAL lab, please email Jiayi. 
 
 {%
   include button.html
