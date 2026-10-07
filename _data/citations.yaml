@@ -142,12 +142,14 @@
   orcid: 0000-0002-3314-5666
   plugin: orcid.py
   file: orcid.yaml
-- title: Islands Satiate without Change in Backgroundedness
+- id: https://doi.org/10.16995/glossa.29677
+  title: Islands Satiate without Change in Backgroundedness
   authors:
   - Xiaohan Yang
   - Jiayi Lu
   publisher: 'Glossa: a journal of general linguistics'
   date: '2026-10-06'
+  link: https://doi.org/10.16995/glossa.29677
   plugin: sources.py
   file: sources.yaml
 - title: Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?
